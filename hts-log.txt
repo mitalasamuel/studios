@@ -1,0 +1,16 @@
+HTTrack3.49-2 launched on Wed, 05 Apr 2023 17:56:27 at https://www.studiogusto.com/
+(winhttrack https://www.studiogusto.com/ -O "/Users/sammitala/Desktop/Nick /Nick" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:57:28	Warning: 	Moved Permanently for https://www.studiogusto.com/project/
+17:57:28	Warning: 	File has moved from https://www.studiogusto.com/project/ to https://www.studiogusto.com/project
+17:57:30	Warning: 	Moved Permanently for https://www.studiogusto.com/cssdesignawards.com/sites/you-matter/30847/
+17:57:30	Warning: 	File has moved from https://www.studiogusto.com/cssdesignawards.com/sites/you-matter/30847/ to https://www.studiogusto.com/cssdesignawards.com/sites/you-matter/30847
+17:57:31	Error: 	"Error when decompressing" (-1) at link https://www.studiogusto.com/cssdesignawards.com/sites/you-matter/30847 (from https://www.studiogusto.com/cssdesignawards.com/sites/you-matter/30847/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 4 seconds : 64 links scanned, 60 files written (3804962 bytes overall) [1017267 bytes received at 15894 bytes/sec], 3734956 bytes transferred using HTTP compression in 57 files, ratio 24%, 22.0 requests per connection
+(1 errors, 4 warnings, 0 messages)
